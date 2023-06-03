@@ -13,4 +13,4 @@ Python was used to perform statistical analysis, geographical analysis, regressi
 
 ## Resources
 Origianl data can be seen on [Kaggle](https://www.kaggle.com/datasets/konivat/us-gun-violence-archive-2014)
-Visualizations can be seen on [Tableau](https://public.tableau.com/app/profile/yeji.chun)
+Visualizations can be seen on [Tableau](https://public.tableau.com/app/profile/yeji.chun/viz/GunViolenceIncidentDataAnalysis2014-2021/Story1)
