@@ -12,9 +12,9 @@ Is there any correlation between time of the year and number of incidents? Is th
 Python was used to perform statistical analysis, geographical analysis, regression analysis, spatial analysis, cluster analysis and time-series analysis.
 
 ## Limitations
-Data is from January 2013 to March 2018 so most recent data is missing
+Data is from January 2013 to March 2018 so most recent data is missing.
 Data from 2013 is incomplete because not all incidents were recorded
 
 ## Resources
-Origianl data can be seen on [Kaggle] (https://www.kaggle.com/datasets/jameslko/gun-violence-data?resource=download)
+Origianl data can be seen on [Kaggle](https://www.kaggle.com/datasets/jameslko/gun-violence-data?resource=download)
 Visualizations can be seen on [Tableau](https://public.tableau.com/app/profile/yeji.chun/viz/GunViolenceIncidentDataAnalysis2014-2021/Story1)
