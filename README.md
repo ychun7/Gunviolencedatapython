@@ -17,4 +17,4 @@ Data from 2013 is incomplete because not all incidents were recorded
 
 ## Resources
 Origianl data can be seen on [Kaggle](https://www.kaggle.com/datasets/jameslko/gun-violence-data?resource=download)
-Visualizations can be seen on [Tableau](https://public.tableau.com/app/profile/yeji.chun/viz/GunViolenceIncidentDataAnalysis2014-2021/Story1)
+Visualizations can be seen on [Tableau](https://public.tableau.com/app/profile/yeji.chun/viz/GunViolenceDataAnalysis2013-2018/Story1?publish=yes)
